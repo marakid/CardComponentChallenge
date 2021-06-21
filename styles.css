@@ -1,0 +1,74 @@
+.box {
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  font-size: 15px;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  border-radius: 10px;
+  overflow: hidden;
+  border: none;
+  width: 880px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 45px;
+  border-radius: 0;
+}
+.sedan {
+  background-color: hsl(31, 77%, 52%);
+}
+.suv {
+  background-color: hsl(184, 100%, 22%);
+}
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+}
+h1 {
+  color: hsl(0, 0%, 95%);
+  font-family: Big Shoulders Display;
+  font-weight: 700;
+  padding: 20px 0px;
+}
+.btn {
+  background-color: hsl(0, 0%, 95%);
+  border-radius: 30px;
+  border: 3px solid hsl(0, 0%, 95%);
+  font-weight: 700;
+  padding: 10px 30px;
+  margin-top: 80px;
+  cursor: pointer;
+}
+.btn:hover {
+  color: hsl(0, 0%, 95%);
+}
+.sedan button {
+  color: hsl(31, 77%, 52%);
+}
+.sedan button:hover {
+  background-color: hsl(31, 77%, 52%);
+}
+.suv button {
+  color: hsl(184, 100%, 22%);
+}
+.suv button:hover {
+  background-color: hsl(184, 100%, 22%);
+}
+.luxury button {
+  color: hsl(179, 100%, 13%);
+}
+.luxury button:hover {
+  background-color: hsl(179, 100%, 13%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
