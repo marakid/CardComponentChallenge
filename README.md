@@ -24,4 +24,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://marakid.github.io/CardComponentChallenge/)
+- Live Site URL: [See the project here](https://marakid.github.io/CardComponentChallenge/)
